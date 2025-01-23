@@ -1,0 +1,15 @@
+.\src\Dff.v
+.\src\shift_reg.v
+.\src\breadboard.v
+.\src\Dff_tb.v
+.\src\CRC.v
+.\src\XOR.v
+.\src\CRC_bread.v
+.\src\d_flip_flop.v
+.\src\clock_generator.v
+.\src\address_decoder.v
+.\src\ram_testbench.v
+.\src\ram_8x4.v
+.\src\Comparator.v
+.\src\Comparator_4bit_tb.v
+.\src\control_logic.v

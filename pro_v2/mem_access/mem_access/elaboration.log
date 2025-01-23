@@ -1,0 +1,31 @@
+Active-HDL 15.0.261.9132 2025-01-23 19:56:27
+
+Elaboration top modules:
+Verilog Module                ram_testbench
+
+
+----------------------------------------------------------------------------------------------
+Verilog Module          | Library    | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+ram_testbench           | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+CRC                     | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ram_8x4                 | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Comparator_4bit         | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+LeftShiftRegister       | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+XOR                     | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Dff                     | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+address_decoder         | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+d_flip_flop             | mem_access |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+Library                 | Comment
+----------------------------------------------------------------------------------------------
+mem_access              | None
+----------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+ram_testbench ram_testbench
+
+
+The performance of simulation is reduced. Version Student Edition

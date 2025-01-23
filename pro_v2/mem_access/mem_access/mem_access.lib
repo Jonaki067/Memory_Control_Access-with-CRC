@@ -1,0 +1,198 @@
+timestamp=1737640564104
+
+[~A]
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v_d_flip_flop.v_clock_generator.v_address_decoder.v_ram_testbench.v_ram_8x4.v_Comparator.v_Comparator_4bit_tb.v_control_logic.v=0*479190*484254
+D:/dsd/dsd_project_poly/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v_d_flip_flop.v_clock_generator.v_address_decoder.v_ram_testbench.v_ram_8x4.v_Comparator.v_Comparator_4bit_tb.v=0*458351*462899
+D:/dsd/dsd_project_poly/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v_d_flip_flop.v_clock_generator.v_address_decoder.v_ram_testbench.v_ram_8x4.v_Comparator.v_Comparator_4bit_tb.v_control_logic.v=0*469527*474571
+D:/dsd/dsd_project_poly/pro_v2/mem_access/src/control_logic.v=0*464389*465258
+F:/4-2/DSD Lab/pro_v2_merged/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v_d_flip_flop.v_clock_generator.v_address_decoder.v_ram_testbench.v_ram_8x4.v_Comparator.v_Comparator_4bit_tb.v=0*405393*409482
+F:/4-2/DSD Lab/pro_v2_merged/pro_v2/mem_access/src/clock_generator.v=0*380361*380821
+F:/4-2/DSD Lab/pro_v2_merged/pro_v2/mem_access/src/clock_generator.v_ram_testbench.v=0*360028*361080
+F:/4-2/DSD Lab/pro_v2_merged/pro_v2/mem_access/src/ram_testbench.v=0*412754*413676
+F:/4-2/DSD Lab/pro_v2_mergedA - Copy/pro_v2/mem_access/src/XOR.v_CRC.v=0*442004*443187
+F:/4-2/DSD Lab/pro_v2_mergedA - Copy/pro_v2/mem_access/src/ram_testbench.v=0*444259*445526
+LastVerilogToplevel=control_logic
+ModifyID=152
+Version=74
+c:/My_Designs/pro_v2/mem_access/src/CRC.v=0*214515*215476
+c:/My_Designs/pro_v2/mem_access/src/CRC_bread.v=0*162131*162730
+c:/My_Designs/pro_v2/mem_access/src/Dff.v=0*62389*62822
+c:/My_Designs/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v=0*11150*12184
+c:/My_Designs/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v=0*47637*48777
+c:/My_Designs/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v=0*310864*312908
+c:/My_Designs/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v_d_flip_flop.v_clock_generator.v_address_decoder.v_ram_testbench.v_ram_8x4.v=0*320984*324416
+c:/My_Designs/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_CRC.v_XOR.v_CRC_bread.v_d_flip_flop.v_clock_generator.v_address_decoder.v_ram_testbench.v_ram_8x4.v_Comparator.v=0*328364*331953
+c:/My_Designs/pro_v2/mem_access/src/Dff.v_shift_reg.v_breadboard.v_Dff_tb.v_Register.v=0*50649*51912
+c:/My_Designs/pro_v2/mem_access/src/Dff_tb.v=0*67017*67613
+c:/My_Designs/pro_v2/mem_access/src/XOR.v=0*68586*69051
+c:/My_Designs/pro_v2/mem_access/src/XOR_.v=0*54366*54832
+c:/My_Designs/pro_v2/mem_access/src/address_decoder.v=0*317034*317511
+c:/My_Designs/pro_v2/mem_access/src/breadboard.v=0*65417*66081
+c:/My_Designs/pro_v2/mem_access/src/clock_generator.v=0*315560*315989
+c:/My_Designs/pro_v2/mem_access/src/d_flip_flop.v=0*314040*314561
+c:/My_Designs/pro_v2/mem_access/src/shift_reg.v=0*163768*164351
+
+[~MFT]
+0=18|0mem_access.mgf|484254|248914
+1=32|1mem_access.mgf|1313737|1281043
+3=64|3mem_access.mgf|814207|788891
+
+[$root]
+A/$root=22|||1*1285114
+BinW64/$root=3*792235
+SLP=3*792350
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c921695b17cb5d082df152169c6c0dc7d4943
+
+[CRC]
+A/CRC=22|../src/CRC.v|27|1*1291340
+BinW64/CRC=3*796927
+R=../src/CRC.v|27
+SLP=3*798220
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9b9ce5256e209b1486697e8afbbb7abb67832e1028a251234e2ec162367da947
+
+[CRC_bread]
+A/CRC_bread=22|../src/CRC_bread.v|28|1*1298803
+BinW64/CRC_bread=3*799600
+R=../src/CRC_bread.v|28
+SLP=3*800420
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|768c5100268c8d20360a13cfc1aedb18b2332ad9da75cd1b858fff7603ab4539d3fb39a4ee316293fa553cab8c99e738
+
+[Comparator]
+A/Comparator=22|../src/Comparator.v|26|1*922968
+BinW64/Comparator=3*523701
+R=../src/Comparator.v|26
+SLP=3*523821
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|6b0cd2d20a0d9c2598236818b21170af6157a78d2114de38b45ca997313e64c70ca6be2b94c728b33deebb70a6f28f91
+
+[Comparator_4bit]
+A/Comparator_4bit=22|../src/Comparator.v|26|1*1309160
+BinW64/Comparator_4bit=3*808250
+R=../src/Comparator.v|26
+SLP=3*809628
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b368c1f94c1dd1fb45eae97762b7567d5d23492ef8294fdaf4b763ce7885dcb8fe20fd4b128f441b95d7d0ee936701cf
+
+[Comparator_4bit_tb]
+A/Comparator_4bit_tb=22|../src/Comparator_4bit_tb.v|25|1*1312192
+BinW64/Comparator_4bit_tb=3*810784
+R=../src/Comparator_4bit_tb.v|25
+SLP=3*811950
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b368c1f94c1dd1fb45eae97762b7567d068d62e79d774476dbbfd52dafb2cc07e0e60f425f7b44a9204068dee5b64d43
+
+[Dff]
+A/Dff=22|../src/Dff.v|25|1*1285616
+BinW64/Dff=3*792418
+R=../src/Dff.v|25
+SLP=3*792771
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3c35d1a1fe746340607f957c79d2d3ef9002be5b9bc1bf19d7feea998b86c394
+
+[Dff_tb]
+A/Dff_tb=22|../src/Dff_tb.v|22|1*1290166
+BinW64/Dff_tb=3*795333
+R=../src/Dff_tb.v|22
+SLP=3*796342
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f0cc83eab732e2aeef56f33e2720e8c2306d30844f0056addefc5bbbe8e35f5a
+
+[LeftShiftRegister]
+A/LeftShiftRegister=22|../src/shift_reg.v|23|1*1286633
+BinW64/LeftShiftRegister=3*792959
+R=../src/shift_reg.v|23
+SLP=3*793474
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|894159bb6fcab64d5a733776ba11b15631c2905e079330e5472bd04b6685e63d2398f3fbcdf4e28b739db7e2af086c2a
+
+[LeftShiftRegister_tb]
+A/LeftShiftRegister_tb=22|../src/breadboard.v|13|1*1288690
+BinW64/LeftShiftRegister_tb=3*793757
+R=../src/breadboard.v|13
+SLP=3*794743
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|894159bb6fcab64d5a733776ba11b1562d41822219b18477f9117e5c5c878423a72a99bed0d6019b4cf4ff647371969b
+
+[XOR]
+A/XOR=22|../src/XOR.v|24|1*1297627
+BinW64/XOR=3*798840
+R=../src/XOR.v|24
+SLP=3*799320
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|43ec31b57af6e8b48c1811963e5c97d54bce17c2af547c3de3903cb1c9b78b24
+
+[XOR_]
+A/XOR_=22|../src/XOR_.v|24|1*105392
+BinW64/XOR_=3*79327
+R=../src/XOR_.v|24
+SLP=3*79832
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|1f6fca0dd37cbd81c2ddb120e762d19600e39efeb01072365262401a21c137fd
+
+[address_decoder]
+A/address_decoder=22|../src/address_decoder.v|27|1*1302199
+BinW64/address_decoder=3*802438
+R=../src/address_decoder.v|27
+SLP=3*802898
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bd7ea70a29ee1180a80641e2e380824789a8d82eae0ca98cd876cd9453b92237c120d8d9f2734df4ae8d4f6a8a554965
+
+[bread_board]
+A/bread_board=22|../src/breadboard.v|28|1*15245
+BinW64/bread_board=3*7734
+R=../src/breadboard.v|28
+SLP=3*8751
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|515d06278a6d9b36b62e1e82d28547e91318c6a7986d7dfaa4e40e563bdd415c43e2f209ce06e45fc8c74ab5d1a924a7
+
+[clock_generator]
+A/clock_generator=22|../src/clock_generator.v|26|1*1301413
+BinW64/clock_generator=3*801704
+R=../src/clock_generator.v|26
+SLP=3*802232
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|74b5767aec544c6c2723374d46e071e00e34d9752112bc2d3245b45a3eaa24cbbacd6ad7d302c9102f871e1564af4896
+
+[control_logic]
+A/control_logic=22|../src/control_logic.v|23|1*1313737
+BinW64/control_logic=3*812641
+R=../src/control_logic.v|23
+SLP=3*814207
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f96c2189c3698385f875c02440a18f13a17f40922c941617b84c0d2a5e50fc420adfe2fa6745c779ef0fe9a355bc271d
+
+[d_flip_flop]
+A/d_flip_flop=22|../src/d_flip_flop.v|27|1*1300113
+BinW64/d_flip_flop=3*800878
+R=../src/d_flip_flop.v|27
+SLP=3*801444
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|788ba4692486877191c950f725743c105e843cccafa61fe196be74b42a019744199939844bc61be911087345019ca219
+
+[ram_8x4]
+A/ram_8x4=22|../src/ram_8x4.v|25|1*1305939
+BinW64/ram_8x4=3*806053
+R=../src/ram_8x4.v|25
+SLP=3*807495
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3f99cebde0c11dde266a75f078ab3f0c26527262ddaa47cb266f3a3c4d9b973adf7c6c7e09bdc59ebe744b5af3fabd60
+
+[ram_testbench]
+A/ram_testbench=22|../src/ram_testbench.v|99|1*1303210
+BinW64/ram_testbench=3*803135
+R=../src/ram_testbench.v|99
+SLP=3*804789
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|541e94a364695eb09474a3633625ca9ec4a092b0dc59ca2e20da19c7b27912b4d9276ef4f403e276e6b19c9111f5ce85
+
+[register]
+BinW64/register=3*78504
+R=../src/Register.v|27
+SLP=3*78888
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5fa1b53f1300c4835386baab9d0c635e1096506f0a00bc334a610cd78bf011dd250738650710cc14f372fae4789a88f3
+
+[~U]
+$root=12|0*475463|
+CRC=12|0*476644|
+CRC_bread=12|0*477144||0x10
+Comparator=12|0*328155||0x10
+Comparator_4bit=12|0*478506|
+Comparator_4bit_tb=12|0*478732||0x10
+Dff=12|0*475821|
+Dff_tb=12|0*476483||0x10
+LeftShiftRegister=12|0*476021|
+LeftShiftRegister_tb=12|0*476283||0x10
+XOR=12|0*476943|
+XOR_=12|0*52757||0x10
+address_decoder=12|0*477760|
+bread_board=12|0*8558||0x10
+clock_generator=12|0*477569||0x10
+control_logic=12|0*478918||0x10
+d_flip_flop=12|0*477343|
+ram_8x4=12|0*478231|
+ram_testbench=12|0*477977||0x10
+register=12|0*50420||0x10

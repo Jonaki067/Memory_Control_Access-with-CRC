@@ -1,0 +1,11 @@
+[Files List]
+D:/vlib/std/src/standard.vhd=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/d_flip_flop.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/address_decoder.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/Dff.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/XOR.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/shift_reg.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/Comparator.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/ram_8x4.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/CRC.v=S
+D:/Downloads/final_proj_dsd/pro_v2/mem_access/src/ram_testbench.v=S

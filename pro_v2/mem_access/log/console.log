@@ -1,0 +1,76 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.2 [s].
+alog -O2 -sve -msg 5 -sv2k17 -work mem_access $dsn/src/Dff.v $dsn/src/shift_reg.v $dsn/src/breadboard.v $dsn/src/Dff_tb.v $dsn/src/CRC.v $dsn/src/XOR.v $dsn/src/CRC_bread.v $dsn/src/d_flip_flop.v $dsn/src/clock_generator.v $dsn/src/address_decoder.v $dsn/src/ram_testbench.v $dsn/src/ram_8x4.v $dsn/src/Comparator.v $dsn/src/Comparator_4bit_tb.v $dsn/src/control_logic.v
+# Unit top modules: LeftShiftRegister_tb Dff_tb CRC_bread clock_generator ram_testbench Comparator_4bit_tb control_logic.
+# Compile success 0 Errors 0 Warnings  Analysis time: 1[s].
+# done
+asim -O5 +access +r +m+ram_testbench ram_testbench
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... done : 0.4 [s]
+# SLP: Generation phase ...
+# SLP: Generation phase ... done : 2.0 [s]
+# SLP: Finished : 2.4 [s]
+# SLP: 0 primitives and 188 (100.00%) other processes in SLP
+# SLP: 494 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 2.8 [s].
+# KERNEL: SLP loading done - time: 0.4 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 613 kB (elbread=429 elab2=49 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location D:\Downloads\final_proj_dsd\pro_v2\mem_access\src\wave.asdb
+#  7:56 PM, Thursday, January 23, 2025
+#  Simulation has been initialized
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+ram_testbench ram_testbench
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Finished. Using existing simulator library
+# SLP: 0 primitives and 188 (100.00%) other processes in SLP
+# SLP: 494 (100.00%) signals in SLP and 0 interface signals
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: SLP loading done - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: SLP simulation initialization done - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 613 kB (elbread=429 elab2=49 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location D:\Downloads\final_proj_dsd\pro_v2\mem_access\src\wave.asdb
+#  7:56 PM, Thursday, January 23, 2025
+#  Simulation has been initialized
+run
+# KERNEL: Read Data from address 011: 1111
+# KERNEL: Read CRC from address 100: 0110
+# KERNEL: Recalculated CRC for Data 1111: 110
+# KERNEL: Recalculated CRC is 0110
+# KERNEL: Comparing data_var2 (0110) and recal_crc (0110):
+# KERNEL: A < B: 0 | A = B: 1 | A > B: 0
+# RUNTIME: Info: RUNTIME_0070 ram_testbench.v (185): $stop called.
+# KERNEL: Time: 270 ps,  Iteration: 0,  Instance: /ram_testbench,  Process: @INITIAL#143_1@.
+# KERNEL: Stopped at time 270 ps + 0.
+endsim
+# VSIM: Simulation has finished.
